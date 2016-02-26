@@ -1,6 +1,6 @@
 # Transcript alignment
 
-This data set is part of the [*Polistes dominula* genome project][pdomproj], and provides details regarding the alignment of assembled transcripts to the *P. dominula* genome, as described in (Standage *et al.*, manuscript in preparation).
+This data set is part of the [*Polistes dominula* genome project][pdomproj], and provides details regarding the alignment of assembled transcripts to the *P. dominula* genome, as described in ([Standage *et al.*, *Molecular Ecology*, 2016][ref]).
 Included in this data set are the alignments themselves (in GeneSeqer format), alignment structures suitable for genome annotation workflows (in GFF3 format), and documentation providing complete disclosure of the alignment procedure.
 
 ## Data access
@@ -75,6 +75,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 
 [pdomproj]: https://github.com/PdomGenomeProject
+[ref]: http://dx.doi.org/10.1111/mec.13578
 [GeneSeqer]: http://brendelgroup.org/bioinformatics2go/GeneSeqer.php
 [2-26-2014]: http://www.brendelgroup.org/bioinformatics2go/Download/GeneSeqer-2-26-2014.tar.gz
 [maskgenomedoi]: http://dx.doi.org/10.6084/m9.figshare.1593187
